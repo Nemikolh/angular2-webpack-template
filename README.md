@@ -1,2 +1,11 @@
-# angular2-webpack-template
-Basic config for angular 2 based project using webpack
+# Template project for Angular 2 based project (using webpack)
+
+Stuff to change:
+
+```
+// package.json:
+{project-name}
+{project-description}
+// index.html
+{project-title}
+```
