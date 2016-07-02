@@ -7,8 +7,7 @@ module.exports = {
     entry: {
         polyfills: './src/polyfills.ts',
         vendor: './src/vendor.ts',
-        index: './src/index.ts',
-        'libs-free': './src/libs-free.ts'
+        index: './src/index.ts'
     },
 
     resolve: {
